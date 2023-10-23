@@ -1,0 +1,11 @@
+C:\Users\Mendoza.270467\Source\Repos\christinemndz\BasicThread\BasicThread\bin\Debug\BasicThread.exe.config
+C:\Users\Mendoza.270467\Source\Repos\christinemndz\BasicThread\BasicThread\bin\Debug\BasicThread.exe
+C:\Users\Mendoza.270467\Source\Repos\christinemndz\BasicThread\BasicThread\bin\Debug\BasicThread.pdb
+C:\Users\Mendoza.270467\Source\Repos\christinemndz\BasicThread\BasicThread\obj\Debug\BasicThread.csproj.AssemblyReference.cache
+C:\Users\Mendoza.270467\Source\Repos\christinemndz\BasicThread\BasicThread\obj\Debug\BasicThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mendoza.270467\Source\Repos\christinemndz\BasicThread\BasicThread\obj\Debug\BasicThread.Form1.resources
+C:\Users\Mendoza.270467\Source\Repos\christinemndz\BasicThread\BasicThread\obj\Debug\BasicThread.Properties.Resources.resources
+C:\Users\Mendoza.270467\Source\Repos\christinemndz\BasicThread\BasicThread\obj\Debug\BasicThread.csproj.GenerateResource.cache
+C:\Users\Mendoza.270467\Source\Repos\christinemndz\BasicThread\BasicThread\obj\Debug\BasicThread.csproj.CoreCompileInputs.cache
+C:\Users\Mendoza.270467\Source\Repos\christinemndz\BasicThread\BasicThread\obj\Debug\BasicThread.exe
+C:\Users\Mendoza.270467\Source\Repos\christinemndz\BasicThread\BasicThread\obj\Debug\BasicThread.pdb
